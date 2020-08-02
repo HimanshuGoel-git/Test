@@ -7,6 +7,6 @@ public class Car implements Vehicle{
 
 	public void drive()
 	{
-		System.out.print("car drive on road diff aa");
+		System.out.print("car drive on road diff feature");
 	}
 }

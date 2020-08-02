@@ -6,6 +6,6 @@ import org.springframework.stereotype.Component;
 public class Bike  implements Vehicle{
 	public void drive()
 	{
-		System.out.print("Bike drive");
+		System.out.print("Bike drive in developer");
 	}
 }
